@@ -1,0 +1,1 @@
+# Miniblog using Laravel as backend and vue as frontend
